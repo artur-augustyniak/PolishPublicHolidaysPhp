@@ -25,7 +25,7 @@ class PolishPublicHolidaysHelper
     }
 
     /**
-     * Czy dzień jest wolny w inditexie
+     * Czy dzień jest wolny
      * @param type $day
      * @return boolean
      */
@@ -43,7 +43,7 @@ class PolishPublicHolidaysHelper
     }
 
     /**
-     * Czy dzień jest pracujący w inditexie
+     * Czy dzień jest pracujący
      * @param type $day
      * @return type
      */
